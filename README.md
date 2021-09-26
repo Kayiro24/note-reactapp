@@ -1,7 +1,5 @@
 # Getting Started with Create React App
 
-To see this project click here: https://kayiro24.github.io/note-reactapp/
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
